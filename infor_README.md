@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nirmal0513
+- 👋 Hi, I’m Nirmal Wijesekera
 - 👀 I’m interested in learning and coding.
 - 🌱 I’m currently learning C++, Java and Python.
 - 💞️ I’m looking to collaborate on related projects.
